@@ -8,6 +8,6 @@ numFrames = obj.NumberOfFrames;
      fig=figure;
      frame = read(obj,kk);
      imshow(frame);
-     saveas(fig,['C:\Users\PARIS-GSM\Desktop\Videos\vedeo1796\frames\',num2str(kk)],'jpeg');
+     saveas(fig,['C:\Users\PARIS-GSM\Desktop\Videos\vedeo1797\frames\',num2str(kk)],'jpeg');
      close all 
  end
